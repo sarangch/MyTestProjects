@@ -1,0 +1,15 @@
+C:\MyTests\Unleashed\WebAppTest\PortalUI\bin\Debug\PortalUI.dll.config
+C:\MyTests\Unleashed\WebAppTest\PortalUI\bin\Debug\PortalUI.dll
+C:\MyTests\Unleashed\WebAppTest\PortalUI\bin\Debug\PortalUI.pdb
+C:\MyTests\Unleashed\WebAppTest\PortalUI\bin\Debug\nunit.framework.dll
+C:\MyTests\Unleashed\WebAppTest\PortalUI\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\MyTests\Unleashed\WebAppTest\PortalUI\bin\Debug\WebDriver.dll
+C:\MyTests\Unleashed\WebAppTest\PortalUI\bin\Debug\WebDriver.Support.dll
+C:\MyTests\Unleashed\WebAppTest\PortalUI\bin\Debug\nunit.framework.xml
+C:\MyTests\Unleashed\WebAppTest\PortalUI\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\MyTests\Unleashed\WebAppTest\PortalUI\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\MyTests\Unleashed\WebAppTest\PortalUI\bin\Debug\WebDriver.xml
+C:\MyTests\Unleashed\WebAppTest\PortalUI\bin\Debug\WebDriver.Support.xml
+C:\MyTests\Unleashed\WebAppTest\PortalUI\obj\Debug\PortalUI.csprojResolveAssemblyReference.cache
+C:\MyTests\Unleashed\WebAppTest\PortalUI\obj\Debug\PortalUI.dll
+C:\MyTests\Unleashed\WebAppTest\PortalUI\obj\Debug\PortalUI.pdb

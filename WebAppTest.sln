@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppTest", "WebAppTest\WebAppTest.csproj", "{1188E966-7A05-4B02-9815-BB3ADE54D178}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalUI", "PortalUI\PortalUI.csproj", "{A76BA033-42F6-4C18-BED2-697784BEB304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICalls", "PortalAPI\APICalls.csproj", "{244FCC21-8610-418A-89B8-57E579E28222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1188E966-7A05-4B02-9815-BB3ADE54D178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1188E966-7A05-4B02-9815-BB3ADE54D178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1188E966-7A05-4B02-9815-BB3ADE54D178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1188E966-7A05-4B02-9815-BB3ADE54D178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A76BA033-42F6-4C18-BED2-697784BEB304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76BA033-42F6-4C18-BED2-697784BEB304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76BA033-42F6-4C18-BED2-697784BEB304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76BA033-42F6-4C18-BED2-697784BEB304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{244FCC21-8610-418A-89B8-57E579E28222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244FCC21-8610-418A-89B8-57E579E28222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244FCC21-8610-418A-89B8-57E579E28222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244FCC21-8610-418A-89B8-57E579E28222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

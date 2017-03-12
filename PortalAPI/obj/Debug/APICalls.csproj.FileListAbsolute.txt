@@ -1,0 +1,9 @@
+C:\MyTests\Unleashed\WebAppTest\PortalAPI\bin\Debug\PortalAPI.dll
+C:\MyTests\Unleashed\WebAppTest\PortalAPI\bin\Debug\PortalAPI.pdb
+C:\MyTests\Unleashed\WebAppTest\PortalAPI\bin\Debug\Newtonsoft.Json.dll
+C:\MyTests\Unleashed\WebAppTest\PortalAPI\bin\Debug\RestSharp.dll
+C:\MyTests\Unleashed\WebAppTest\PortalAPI\bin\Debug\Newtonsoft.Json.xml
+C:\MyTests\Unleashed\WebAppTest\PortalAPI\bin\Debug\RestSharp.xml
+C:\MyTests\Unleashed\WebAppTest\PortalAPI\obj\Debug\APICalls.csprojResolveAssemblyReference.cache
+C:\MyTests\Unleashed\WebAppTest\PortalAPI\obj\Debug\PortalAPI.dll
+C:\MyTests\Unleashed\WebAppTest\PortalAPI\obj\Debug\PortalAPI.pdb
